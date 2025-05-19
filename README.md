@@ -75,10 +75,6 @@ El repositorio incluye recursos complementarios:
 
 - **Cheatsheets**: Hojas de referencia rápida con comandos esenciales
 
-## Contribuciones
-
-Las contribuciones a este repositorio son bienvenidas. Si deseas contribuir, por favor consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para conocer las pautas y el proceso.
-
 ## Sobre el Autor
 
 Este material ha sido desarrollado por Rodrigo Campos Tapia (@dontester) de Chile, instructor en Cloud Computing y especialista en AWS. Puedes encontrar más recursos educativos en su [canal de YouTube](https://www.youtube.com/playlist?list=PLBmlFIUW1VDAw2gEeR0vyXb-zz-x0SYl4).
